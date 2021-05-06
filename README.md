@@ -1,3 +1,6 @@
+# CSCI3230-WebAppDev-MajorProject
+This is major group project that I helped to complete as part of the Web Application Development (CSCI3230) course at OTU (Ontario Tech University). This readme contains all the information relevant to the project itself, including the instructions to run the project, the group members that worked on the project, and the requirements for the project itself.
+
 # Instructions To Run
 1. Remember to run the command `npm install` before trying to run the project
 2. In one terminal, run the command `node ./src/server.js` from the root of the project to ensure the backend server is running.
